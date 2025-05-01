@@ -8,28 +8,31 @@ which support the [Terminal graphics protocol](https://sw.kovidgoyal.net/kitty/g
 It should be noted that kitty has quite [complete documentation](https://sw.kovidgoyal.net/kitty/overview/)
 including at times linking to tools.
 
-# Installing kitty
+## Installing kitty
 
 * [Installing kitty](https://sw.kovidgoyal.net/kitty/binary/)
 * Kitty is available in [Ubuntu](https://launchpad.net/ubuntu/+source/kitty)
 
-# Asking questions
+## Asking questions
 * Kitty has a [sub reddit](https://www.reddit.com/r/KittyTerminal) where you can ask questions and get regular informatoin.
 * Kitty's [github](https://github.com/kovidgoyal/kitty/), has [dicussions](https://github.com/kovidgoyal/kitty/discussions) and a you can report [issues](https://github.com/kovidgoyal/kitty/issues)
 
-# Other terminals which support the Terminal Graphics Protocol
+## Other terminals which support the Terminal Graphics Protocol
 
 * [Konsole](https://konsole.kde.org/)
 * [wezterm](https://wezterm.org/)
 * ghostty
 
-# Media
+## Media
 * kitty has a built in command for imgaes [kitten icat](https://sw.kovidgoyal.net/kitty/kittens/icat/)
 * [timg](https://www.mankier.com/1/timg) can play videos and show images.
 
-
-# Plotting graphs
+## Plotting graphs
 
 * [k-nine](https://github.com/talwrii/kitty-plotnine/blob/master/README.md) can plot graphs wiht bash one-liners
 
+
+# Adding to this guide
+
+If you have links that you want to add to this guide you can create a [pull request](https://github.com/talwrii/awesome-kitty/pulls)
   
